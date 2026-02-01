@@ -45,15 +45,6 @@ I specialize in building end-to-end data solutions, from designing **Data Wareho
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangsagwaliya&show_icons=true&theme=radical&count_private=true" height="150" alt="Shivang's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsagwaliya&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   
   [![Website](https://img.shields.io/badge/Portfolio-shivangsagwaliya.github.io-blue?style=for-the-badge&logo=google-chrome)](https://shivangsagwaliya.github.io)
