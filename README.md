@@ -1,6 +1,6 @@
 # Hi there, I'm Shivang! 👋
 
-###  Data Analyst | Turning Raw Data into Business Insights
+###  Data Engineer | Turning Raw Data into Business Insights
 **Based in India** 🇮🇳
 
 I specialize in building end-to-end data solutions, from designing **Data Warehouses** with Medallion Architecture to creating interactive **Power BI Dashboards** and conducting deep **EDA** with Python. My goal is to help businesses make data-driven decisions through actionable storytelling.
