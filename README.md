@@ -1,4 +1,4 @@
-Include AWS glue, athena into this: # Hi there, I'm Shivang! 👋
+# Hi there, I'm Shivang! 👋
 
 ###  Data Engineer | Turning Raw Data into Business Insights
 **Based in India** 🇮🇳
