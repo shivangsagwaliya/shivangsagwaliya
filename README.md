@@ -1,5 +1,3 @@
----
-
 # Hi there, I'm Shivang! 👋
 
 ### Data Engineer | Turning Raw Data into Business Insights
