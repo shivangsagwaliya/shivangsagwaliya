@@ -1,7 +1,3 @@
-Adding **Databricks** is a power move, Shivang. It bridges your SQL Server experience with modern **Lakehouse** architecture. Since you’ve been working with Medallion Architecture, Databricks is the perfect place to showcase that in a scalable, Spark-driven environment.
-
-I've reorganized your Tech Stack to group **Cloud & Big Data** together for better impact.
-
 ---
 
 # Hi there, I'm Shivang! 👋
